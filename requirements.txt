@@ -1,0 +1,3 @@
+# Stock Trading Portfolio Project Dependencies
+# This project uses only Python standard library
+# Python >= 3.6 required
