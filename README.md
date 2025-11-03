@@ -36,3 +36,6 @@ Development Tools
 
 •  Developed using Jupyter Notebook and VS Code
 •  Version control managed via Git & GitHub
+
+<img width="1020" height="652" alt="image" src="https://github.com/user-attachments/assets/03286f1c-54e4-421c-b5e5-03901b7cdd17" />
+
